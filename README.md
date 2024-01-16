@@ -1,4 +1,4 @@
-# JavaScript
+# DYI Build your dream project housing.
 <!-- My learning of JS through courses, books and videos.
 
 In this branch I will post code of what I learned and build.
